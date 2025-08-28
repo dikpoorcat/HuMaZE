@@ -13,3 +13,4 @@ lerna-debug.log*
 *.old
 /easy_english.userdb
 /luna_pinyin.userdb
+user.yaml
